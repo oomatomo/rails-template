@@ -21,7 +21,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # To use slim format
 gem 'slim-rails', '~> 2.1.5'
 # To use css
-gem 'sass-rails', '~> 4.0.3'
+gem 'sass-rails', github: 'rails/sass-rails', branch: '4-0-stable'
 # To use compass
 gem 'compass-rails'
 
